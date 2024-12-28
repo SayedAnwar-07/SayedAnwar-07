@@ -13,13 +13,12 @@
 
 <hr/>
 
-<h2 align="center">Here is my CV link:</h2>
+<h2 align="center">📈 Here is my CV link : 📈</h2>
 <br/>
 <div align="center">
   <a href="https://drive.google.com/file/d/1gG_ihh9BZzEKcI4M3hySIQ5rfs47nye8/view" target="_blank">
     <button style="background-color: #0073e6; color: white; font-size: 18px; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/google-drive.png" alt="Google Drive Icon" style="width: 20px; margin-right: 8px; vertical-align: middle;"/> 
-      Click here to view my CV
+      👉 Click here to view my CV
     </button>
   </a>
 </div>
