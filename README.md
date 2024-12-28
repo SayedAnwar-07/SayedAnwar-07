@@ -16,7 +16,7 @@
 <h2 align="center">📈 Here is my CV link : 📈</h2>
 <br/>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1gG_ihh9BZzEKcI4M3hySIQ5rfs47nye8/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1c63nlBlRh_2W0vcyrtJjLvk_m9gqZk0C/view" target="_blank">
     <button style="background-color: #0073e6; color: white; font-size: 18px; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">
       👉 Click here to view my CV
     </button>
