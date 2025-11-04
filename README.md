@@ -1,102 +1,106 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayed+Anwar!;+Junior+Web+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Junior+Developer+|+React.js+|+Next.js+|+Node.js+|+Express.js+|+Django+REST+Framework+|+Turning+Ideas+into+Functional+Web+Solutions" />
 </h1>
-
-<h3 align="center">React.js | Next.js | Node.js | Express.js | Django REST Framework | Turning Ideas into Functional Web Solutions</h3>
 
 <br/>
 
 <div align="center">
-  🔭 I'm currently working as a **Junior Developer**<br>
-  🌱 I'm currently learning **TypeScript, Java, Django**<br>
-  💬 Ask me about **React, Next.js, Node.js, Express.js, Django REST Framework**<br>
-  📫 How to reach me: **sayedanwar.dev@gmail.com**<br>
-  ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**<br>
+
+🔭 I’m currently a **student** and **a fresher**<br>
+🌱 I’m currently learning **TypeScript, Java, Django**<br>
+💬 Ask me about **Node.js, React, Firebase**<br>
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**<br>
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">🚀 Portfolio & CV 🚀</h2>
+<h2 align="center">🌐 Portfolio & CV 🌐</h2>
 <br/>
 <div align="center">
   <a href="https://sayed-anwar-tamim.vercel.app/" target="_blank">
-    <button style="background-color: #6e44ff; color: white; font-size: 16px; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer; margin: 5px;">
-      🌐 View Portfolio
-    </button>
+    <img src="https://img.shields.io/badge/🌍_Visit_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1q9WqBn6URpc4mbiKH8FqKp6LqsKREz5I/view?usp=drive_link" target="_blank">
-    <button style="background-color: #0073e6; color: white; font-size: 16px; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer; margin: 5px;">
-      📄 Download CV
-    </button>
+    <img src="https://img.shields.io/badge/📄_View_CV-0073e6?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
-<br/>
+<h2 align="center">🎓 Certificates 🎓</h2>
+
 <div align="center">
-   <h3>Frontend</h3>
-   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,javascript,typescript" />
+  
+🧠 **Ostad** — Full Stack Web Development with Python, Django & React <br>
+<a href="https://drive.google.com/file/d/1PNpa6_61fMcO-2YeG1xu-QYHMBCiu7so/view?usp=drive_link">🎓 View Certificate</a>
+
+<br/><br/>
+
+💻 **Programming Hero** — Full Stack Web Development (MERN) <br>
+<a href="https://drive.google.com/file/d/112CHJxU5YrNUc8Sybe6IuLssL5y1O1t-/view?usp=drive_link">🎓 View Certificate</a>
+
+<br/><br/>
+
+🎨 **Sorobindu** — HTML, CSS & Bootstrap <br>
+<a href="https://drive.google.com/file/d/1oG6qjcdb2bJQRkjhtZwhHFiUGn7-WNom/view?usp=drive_link">🎓 View Certificate</a>
+
+</div>
+
+---
+
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,python,js,ts,html,css,tailwind,bootstrap,redux,figma,vscode,github,mongodb,mysql,firebase" />
+</p>
+
+---
+
+<h2 align="center">🚀 Projects (Highlights)</h2>
+
+> Here are a few of my recent projects that showcase my full-stack journey 👇
+
+1. **🌐 Portfolio Website** — Next.js + Tailwind CSS personal portfolio with animations & responsive design  
+   🔗 Live: [Portfolio Link](https://sayed-anwar-tamim.vercel.app/)
    
-   <h3>Backend</h3>
-   <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,mongodb,mysql,firebase" />
+2. **📝 Blog/CRUD App** — Django REST API backend + React frontend, JWT auth, and image upload  
+   💻 Tech Stack: Django REST Framework, React.js, Axios, Redux
    
-   <h3>Tools</h3>
-   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel,netlify" />
-</div>
+3. **🛍️ E-commerce Store** — MERN project with cart, checkout, and product filtering  
+   ⚙️ Stack: MongoDB, Express.js, React.js, Node.js
 
-<br/>
-<hr/>
+4. **🎉 Event Management** — Django + React project with event gallery, reviews & dashboard  
+   🧩 Stack: Django REST Framework, React, Redux Toolkit
 
-<h2 align="center">📜 Certifications 📜</h2>
-<br/>
-<div align="center">
-  
-  [![Full Stack Web Development with Python, Django & React](https://img.shields.io/badge/Ostad-Full%20Stack%20Web%20Development-blue?style=for-the-badge&logo=django)](https://drive.google.com/file/d/1PNpa6_61fMcO-2YeG1xu-QYHMBCiu7so/view?usp=drive_link)
-  
-  [![Full Stack Web Development in MERN](https://img.shields.io/badge/Programming%20Hero-Full%20Stack%20Web%20Development-green?style=for-the-badge&logo=react)](https://drive.google.com/file/d/112CHJxU5YrNUc8Sybe6IuLssL5y1O1t-/view?usp=drive_link)
-  
-  [![HTML, CSS & Bootstrap](https://img.shields.io/badge/Sorobindu-HTML%2C%20CSS%20%26%20Bootstrap-orange?style=for-the-badge&logo=bootstrap)](https://drive.google.com/file/d/1oG6qjcdb2bJQRkjhtZwhHFiUGn7-WNom/view?usp=drive_link)
-  
-</div>
+---
 
-<br/>
-<hr/>
+<h2 align="center">📈 My Contributions 🐍</h2>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br/>
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-<br/>
-<hr/>
+---
+
+<h2 align="center">📫 Contact Me</h2>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+
+<a href="mailto:youremail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SayedAnwar-07">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
-<h2 align="center">🤝 Connect With Me 🤝</h2>
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:sayedanwar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
 
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</div>
+<h3 align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</h3>
