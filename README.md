@@ -21,7 +21,7 @@
   <a href="https://sayed-anwar-tamim.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1q9WqBn6URpc4mbiKH8FqKp6LqsKREz5I/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1Mwl5L9nQH6NaKiWHqi6MeczONJAbD8yE/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sayedanwartamim/" target="_blank">
