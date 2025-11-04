@@ -59,30 +59,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,mongodb,mysql,firebase" />
 
 ### Languages & Tools
-<img src="https://skillicons.dev/icons?i=js,ts,git,github,vscode" />
-
-</div>
-
----
-
-<h2 align="center">💼 Featured Projects</h2>
-
-<div align="center">
-
-### 🛍️ NeonStich - E-commerce Platform
-**MERN Stack | Stripe Payments | JWT Auth | Cloudinary**
-- Full-featured e-commerce with secure payments and admin dashboard
-- [Live Demo](https://neonstich.netlify.app) • [Code](https://github.com/SayedAnwar-07/NeonStich)
-
-### 🎪 EventraBD - Event Management
-**React | Django REST Framework | Redux | ShadCN UI**
-- Multi-seller platform for event organizers with booking system
-- [Live Demo](https://eventrabd.netlify.app) • [Code](https://github.com/SayedAnwar-07/eventrabd_backend)
-
-### 📚 The Medhakosh - Learning Platform
-**React | Django REST Framework | Redux Toolkit**
-- LMS with student enrollment and instructor content management
-- [Live Demo](https://the-medhakosh.netlify.app) • [Code](https://github.com/SayedAnwar-07/LMS_projects)
+<img src="https://skillicons.dev/icons?i=js,ts,python,git,github,vscode" />
 
 </div>
 
